@@ -16,7 +16,7 @@ human_pose_detection/
 
 1. Clone the repository:
 ```bash
-git clone [[Your Repository URL]](https://github.com/pranavkoushik/techsaksham-p-4).git
+git clone (https://github.com/pranavkoushik/techsaksham-p-4).git
 cd human_pose_detection
 ```
 
